@@ -1,5 +1,7 @@
 # TypeHelper
 
+``composer require darkfriend/php5-type``
+
 * ```TypeHelper::toStrictType($value)``` - return $value to strict type
 
 ## Example
